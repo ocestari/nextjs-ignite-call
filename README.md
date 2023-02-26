@@ -9,6 +9,3 @@ $ npm install
 $ npm run dev
 # The server will initialize in the <http://localhost:3000>
 ```
-Testar o projeto em funcionamento -> [Ignite Call](https://nextjs-ignite-call.vercel.app/)
-
-Feito por Diego Almeida :wave: #TrilhaIgnite #Rocketseat 🚀
